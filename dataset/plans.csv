@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,max_devices
+1,Mobile,149.0,1
+2,Basic,249.0,2
+3,Standard,499.0,4
+4,Premium,799.0,6
